@@ -1,5 +1,3 @@
-# Forward-Deploy-AI-Engineer
-
 # AI Forward Deployed Engineer — Career Roadmap
 
 > **Prepared for:** Ramamohan Reddy Sirigireddy  
