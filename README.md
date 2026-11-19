@@ -17,7 +17,7 @@
 | **Experience** | ~12 years — PwC → Intelliswift → Wipro → Infosys → UST |
 | **Career Arc** | Associate Engineer → Project Engineer → Senior Associate Consultant → Lead Cloud DevOps → Cloud Architect |
 | **Core Stack** | Azure (AKS), GCP (GKE), AWS; Docker, Kubernetes, Terraform, GitHub Actions, DevSecOps |
-| **Certifications** | Azure Solutions Architect Expert, DevOps Engineer Expert, Azure Security Engineer, Azure Admin, Terraform Associate, GitHub Actions, GitHub Copilot, GCP |
+| **Certifications** | Azure Solutions Architect Expert, DevOps Engineer Expert, Azure Security Engineer, Azure Admin, Terraform Associate, GitHub Actions, GitHub Copilot, GCP Cloud Architect, Claude Certified Architect Foundation, Claude Certified Architect Professional |
 | **Delivery Record** | Cloud migration, modernisation and data-engineering projects for multi-industry clients |
 | **Education** | B.Tech, JNTUA College of Engineering, Anantapur (2014) |
 | **Location** | Bengaluru |
